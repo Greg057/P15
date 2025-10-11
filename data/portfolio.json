@@ -1,0 +1,26 @@
+{
+  "personal": {
+    "full_name": null,
+    "title": null,
+    "about_me": null,
+    "location": null,
+    "avatarUrl": null,
+    "cvUrl": null,
+    "custom_links": []
+  },
+  "selectedComponents": {
+    "userInfo": "minimalProfile",
+    "skills": "orbitingCircles",
+    "projects": "threeDCard",
+    "workExperience": "card",
+    "education": "card"
+  },
+  "sectionOrder": [
+    "personal",
+    "experience",
+    "education",
+    "projects",
+    "skills"
+  ],
+  "themePreset": "default"
+}
